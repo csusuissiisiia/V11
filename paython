@@ -1,0 +1,6 @@
+pkg install update
+pkg install upgrade
+git clone git@github.com:csusuissiisiia/V11.git
+ls
+amino spam.py
+python spam.py
